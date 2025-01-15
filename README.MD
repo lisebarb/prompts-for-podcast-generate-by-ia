@@ -19,6 +19,9 @@
 [link do podcast](output/podcast_editado.MP3)
 
 ## Prompts
-|titulo  | Prompt |
-|roteiro | crie um roteiro de podcast de tecnologia, focado em inteligencia artificial cujo nome é IA para elas: programando o amanhã|
-|capa    | crie uma imagem de mulher desbravanfdo inteligencia artificial com roupas casuais e cuidando da casa                      |
+Canvas: 
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| título   | Crie imagem de mulher aprendendo intelogencia artificial com roupas casuais                                                                                                                                                                                                    |
+| roteiro  | crie um roteiro de podcast de tecnologia, focado em inteligencia artificial cujo nome é IA para elas: programando o amanhã                                                                                                                                                     |
+| capa     | crie uma imagem de mulher desbravanfdo inteligencia artificial com roupas casuais e cuidando da casa                                                                                                                                                                           |
