@@ -1,7 +1,6 @@
-<p align="center">
-<img 
-    src="./assets/crie uma imagem de mulher desbravando a inteligencia artificial com roupas casuais e cuidando da casa (1).jpg
-    width="300"
+<img src="assets/crie uma imagem de mulher desbravando a inteligencia artificial com roupas casuais e cuidando da casa (1).jpg" alt="IA para elas: programando o amanhã">
+
+
 
 ## Tecnologias utilizadas no projeto
 
@@ -17,7 +16,7 @@
 - A capa foi gerada no Canva;
 - O som de fundo foi sintetizado no Capcut.
 
-{link do podcast} (output/podcast_editado.MP3)
+[link do podcast](output/podcast_editado.MP3)
 
 ## Prompts
 |titulo  | Prompt |
