@@ -1,6 +1,6 @@
-
+<p align="center">
 <img 
-    src="/assets/crie uma imagem de mulher desbravando a inteligencia artificial com roupas casuais e cuidando da casa (1).jpg
+    src="./assets/crie uma imagem de mulher desbravando a inteligencia artificial com roupas casuais e cuidando da casa (1).jpg
     width="300"
 
 ## Tecnologias utilizadas no projeto
